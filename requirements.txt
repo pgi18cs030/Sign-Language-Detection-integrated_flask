@@ -91,7 +91,6 @@ psutil==5.7.3
 psycopg2==2.9.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/user33/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 PyAutoGUI==0.9.52
 pycodestyle==2.6.0
 pydub==0.25.1
